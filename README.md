@@ -740,7 +740,7 @@ You are free to use, modify, and distribute this software in accordance with the
 
 **Prateek**
 
-Second-Year Computer Science Student
+First-Year Computer Science Student
 
 Passionate about AI, Full-Stack Development, and building practical technology solutions that create real-world impact.
 
